@@ -1,0 +1,11 @@
+*.bin
+
+*.properties
+
+
+*.xml
+
+*.iml
+
+
+.idea
