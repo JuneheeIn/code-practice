@@ -3,7 +3,7 @@ package stage.first;
 
 import java.util.Scanner;
 
-class Solution {
+class FirstStage {
     public void twoFiveFiveSeven() {
         System.out.print("Hello World!");
     }
@@ -107,7 +107,7 @@ class Solution {
         System.out.println(firstValue * secondValue);
     }
 
-    public static Solution instance() {
-        return new Solution();
+    public static FirstStage instance() {
+        return new FirstStage();
     }
 }
